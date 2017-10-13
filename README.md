@@ -9,4 +9,4 @@
     - class, constructor, instanceあたりの話に入ったばかり。
 
 # どう使うの？
-課題ページを参照下さい。
+[課題ページ](https://github.com/naltoma/java_intro/blob/master/report/report2_chatbot2/report2.md)を参照下さい。
